@@ -1,5 +1,7 @@
 # REPORT.md
 
+**Tên:** Hồ Quang Hiển &nbsp;&nbsp; **MSSV:** 2A202600059
+
 ## 1. Setup
 
 - **Submission option**: Option B - GitHub + HuggingFace Hub
